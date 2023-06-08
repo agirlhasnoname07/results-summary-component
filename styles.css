@@ -133,28 +133,28 @@ body {
 }
 
 .category-red {
-  background-color: hsla(0, 100%, 67%, 0.2);
+  background-color: hsla(0, 100%, 67%, 0.05);
 }
 .category-red .result-name {
   color: hsl(0, 100%, 67%) !important;
 }
 
 .category-yellow {
-  background-color: hsla(39, 100%, 56%, 0.2);
+  background-color: hsla(39, 100%, 56%, 0.05);
 }
 .category-yellow .result-name {
   color: hsl(39, 100%, 56%) !important;
 }
 
 .category-green {
-  background-color: hsla(166, 100%, 37%, 0.2);
+  background-color: hsla(166, 100%, 37%, 0.05);
 }
 .category-green .result-name {
   color: hsl(166, 100%, 37%) !important;
 }
 
 .category-blue {
-  background-color: hsla(234, 85%, 45%, 0.2);
+  background-color: hsla(234, 85%, 45%, 0.05);
 }
 .category-blue .result-name {
   color: hsl(234, 85%, 45%) !important;
@@ -167,4 +167,27 @@ body {
 }
 .attribution a {
   color: hsl(256, 72%, 46%);
+}
+
+@media screen and (max-width: 450px) {
+  body {
+    background-color: white;
+    align-items: center;
+  }
+  .main-container {
+    width: 100%;
+    flex-direction: column;
+    border-radius: 0px;
+    overflow: hidden;
+  }
+  .results-container {
+    border-radius: 0 0 2rem 2rem;
+    width: 100%;
+  }
+  .results-container .sub-text {
+    width: 260px;
+  }
+  .summary-container {
+    width: 100%;
+  }
 }/*# sourceMappingURL=styles.css.map */
