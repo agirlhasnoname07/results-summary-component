@@ -1,6 +1,6 @@
 # My solution 
 
-[Results summary component - Live preview](https://agirlhasnoname07.github.io/results-summary-component/)
+[Results summary component - Live preview](https://sophie-mc-dev.github.io/results-summary-component/)
 
 # Frontend Mentor - Results summary component
 
