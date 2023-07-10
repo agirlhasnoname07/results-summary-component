@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com](https://www.frontendmentor.io/solutions/results-summary-component-with-html-and-css-coDr-5CvID)
-- Live Site URL: [Github Pages](https://your-live-site-url.com](https://sophie-mc-dev.github.io/results-summary-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-with-html-and-css-coDr-5CvID)
+- Live Site URL: [Github Pages](https://sophie-mc-dev.github.io/results-summary-component/)
 
 ## My process
 
